@@ -1,9 +1,9 @@
 wercker-build-trigger
 ===
 
-Lambda job with [Apex – Serverless Infrastructure](http://apex.run/) to trigger wercker build.
+Lambda job with [Apex](http://apex.run/) to trigger wercker build.
 
-This realizes [Scheduled wercker build by scheduled lambda function](http://docs.aws.amazon.com/lambda/latest/dg/tutorial-scheduled-events-schedule-expressions.html).
+This realizes scheduled wercker build by [scheduled lambda function](http://docs.aws.amazon.com/lambda/latest/dg/tutorial-scheduled-events-schedule-expressions.html).
 
 ## Usage
 ### 1. Initialize
